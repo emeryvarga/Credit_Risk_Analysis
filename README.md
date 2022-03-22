@@ -37,7 +37,4 @@ The purpose of this analysis is apply machine learning to predict credit card ri
 
 
 ## Summary
-
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
-Submission
+The Easy Ensemble AdaBoost Classifier is the best model to apply for credit card risk with a 0.93 balanced accuracy. Out of the six models, this accuracy score is closest to 1.
